@@ -15,3 +15,9 @@
 ![](https://github-readme-stats.vercel.app/api?username=javiernglz&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=javiernglz&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=javiernglz&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+
+<p align="left">
+<a href="https://www.linkedin.com/in/javier-navarrete-gonz%C3%A1lez-504862331/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="javiernglz"/></a>
+  </p>
+<br>

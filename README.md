@@ -8,7 +8,7 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hi+there+%F0%9F%91%8B;I+am+Javi.)
 
 
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,kali,git,bash,autocad,matlab,ps&theme=light)](https://skillicons.dev)
 
 # 📊 GitHub Stats:
 

@@ -1,7 +1,7 @@
-# 💫 Hi, I’m currently learning:		
+# Hi, I’m currently learning:		
 [![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/J.avi.png)](https://tryhackme.com/p/J.avi)
 
-### My officials Certifications
+### My official Cybersecurity Certifications
 
 <div align="left">
   <a href="https://www.credly.com/badges/f3fa9ac7-5d90-45aa-9e9c-c06140392903/public_url" target="_blank">
@@ -13,7 +13,7 @@
   </a>
 
   <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-Y8IJUDTPYP.pdf" target="_blank">
-    <img src="./SOCL1.svg" height="100" alt="SOCL1THM"/>
+    <img src="./SOCL1.png" height="130" alt="SOCL1THM"/>
   </a>
 
 

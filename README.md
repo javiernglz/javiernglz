@@ -1,4 +1,6 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=%F0%9F%91%8B;Hi+my+name+is+Javi,+I'm+a+Cybersecurity+Analyst.)
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Hi+my+name+is+Javi+%F0%9F%91%8B;I'm+a+Cybersecurity+Analyst+%F0%9F%9B%A1%EF%B8%8F" alt="Typing SVG" />
+</div>
 
 # Hi, I’m currently learning:		
 [![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/J.avi.png)](https://tryhackme.com/p/J.avi)

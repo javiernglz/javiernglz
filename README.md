@@ -13,7 +13,7 @@
   </a>
 
   <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-Y8IJUDTPYP.pdf" target="_blank">
-    <img src="./SOCL1.png" height="130" alt="SOCL1THM"/>
+    <img src="./SOCL1.svg" height="130" alt="SOCL1THM"/>
   </a>
 
 ![C](https://img.shields.io/badge/C-A8B400?style=flat&logo=c&logoColor=ffffff)

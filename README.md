@@ -1,11 +1,15 @@
 # 💫 Hi, I’m currently learning:		
 [![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/J.avi.png)](https://tryhackme.com/p/J.avi)
-[![TryHackMe](https://github-readme-tryhackme.vercel.app/api/badge?username=J.avi&theme=dark&show_icons=true)](https://tryhackme.com/p/J.avi)
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4075228" style='border:none;'></iframe>
 
-[![TryHackMe](https://github-readme-tryhackme.vercel.app/api/badge?username=J.avi&theme=dark&show_icons=true)](https://tryhackme.com/p/J.avi)
+### Certificaciones
 
-[![TryHackMe](https://github-readme-tryhackme.vercel.app/api/badge?username=J.avi&theme=matrix&show_icons=true)](https://tryhackme.com/p/J.avi)
+<div align="left">
+  <img src="https://images.credly.com/images/995079a4-130d-4581-b541-11d615951d2f/Google_Cybersecurity_Professional_Certificate.png" height="110" alt="Google Cybersecurity"/>
+  
+  <img src="https://images.credly.com/images/389f41b9-3972-468f-9a99-566b61c77f09/image.png" height="110" alt="eJPTv2"/>
+
+  <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/thmc_soclevel1.png" height="110" alt="SOC Level 1"/>
+</div>
 
 ![C](https://img.shields.io/badge/C-A8B400?style=flat&logo=c&logoColor=ffffff)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=ffffff)

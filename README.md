@@ -1,6 +1,7 @@
 # 💫 Hi, I’m currently learning:		
 [![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/J.avi.png)](https://tryhackme.com/p/J.avi)
 [![TryHackMe](https://github-readme-tryhackme.vercel.app/api/badge?username=J.avi&theme=dark&show_icons=true)](https://tryhackme.com/p/J.avi)
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4075228" style='border:none;'></iframe>
 
 ![C](https://img.shields.io/badge/C-A8B400?style=flat&logo=c&logoColor=ffffff)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=ffffff)

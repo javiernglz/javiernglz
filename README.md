@@ -2,13 +2,21 @@
 [![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/J.avi.png)](https://tryhackme.com/p/J.avi)
 
 ### Certificaciones
-[![Google Cybersecurity](https://img.shields.io/badge/Google-Cybersecurity-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://www.credly.com/badges/f3fa9ac7-5d90-45aa-9e9c-c06140392903/public_url)
+### 🏆 Certificaciones Oficiales
 
-[![eJPT](https://img.shields.io/badge/INE-eJPTv2-ec323f?style=for-the-badge&logo=security&logoColor=white)](PON_AQUI_TU_ENLACE_DE_CREDLY_O_INE)
+<div align="left">
+  <a href="(https://www.credly.com/badges/f3fa9ac7-5d90-45aa-9e9c-c06140392903/public_url)" target="_blank">
+    <img src="https://images.credly.com/images/995079a4-130d-4581-b541-11d615951d2f/Google_Cybersecurity_Professional_Certificate.png" height="130" alt="Google Cybersecurity"/>
+  </a>
 
-[![SOC L1](https://img.shields.io/badge/TryHackMe-SOC_Level_1-88cc14?style=for-the-badge&logo=tryhackme&logoColor=white)](PON_AQUI_TU_ENLACE_DEL_CERTIFICADO)
+  <a href="PEGAR_AQUI_EL_ENLACE_PUBLICO_DE_EJPT" target="_blank">
+    <img src="https://images.credly.com/images/389f41b9-3972-468f-9a99-566b61c77f09/image.png" height="130" alt="eJPTv2"/>
+  </a>
 
-![eCPPTv3](https://img.shields.io/badge/Objetivo-eCPPTv3_Loading...-yellow?style=for-the-badge&logo=target&logoColor=black)
+  <a href="PEGAR_AQUI_EL_ENLACE_PUBLICO_DE_THM_SOC" target="_blank">
+    <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/thmc_soclevel1.png" height="130" alt="THM SOC Level 1"/>
+  </a>
+</div>
 
 ![C](https://img.shields.io/badge/C-A8B400?style=flat&logo=c&logoColor=ffffff)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=ffffff)

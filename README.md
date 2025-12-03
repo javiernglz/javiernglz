@@ -1,7 +1,9 @@
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hi+there+%F0%9F%91%8B;Hi,+my+name+is+Javi,+I'm+a+Cybersecurity+Analyst.)
+
 # Hi, I’m currently learning:		
 [![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/J.avi.png)](https://tryhackme.com/p/J.avi)
 
-### My official Cybersecurity Certifications
+# My official Cybersecurity Certifications
 
 <div align="left">
   <a href="https://www.credly.com/badges/f3fa9ac7-5d90-45aa-9e9c-c06140392903/public_url" target="_blank">
@@ -19,14 +21,11 @@
   </a>
 
 
-# My skills:
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hi+there+%F0%9F%91%8B;I+am+Javi.)
-
+## My skills:
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,py,kali,elasticsearch,git,bash,autocad,matlab,ps&theme=light)](https://skillicons.dev)
 
-# GitHub Stats:
+## GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=javiernglz&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=javiernglz&theme=dark&hide_border=false)<br/>

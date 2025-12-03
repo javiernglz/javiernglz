@@ -9,14 +9,6 @@
     <img src="https://images.credly.com/images/995079a4-130d-4581-b541-11d615951d2f/Google_Cybersecurity_Professional_Certificate.png" height="130" alt="Google Cybersecurity"/>
   </a>
 
-  <a href="PEGAR_AQUI_EL_ENLACE_PUBLICO_DE_EJPT" target="_blank">
-    <img src="https://images.credly.com/images/389f41b9-3972-468f-9a99-566b61c77f09/image.png" height="130" alt="eJPTv2"/>
-  </a>
-
-  <a href="PEGAR_AQUI_EL_ENLACE_PUBLICO_DE_THM_SOC" target="_blank">
-    <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/thmc_soclevel1.png" height="130" alt="THM SOC Level 1"/>
-  </a>
-</div>
 
 ![C](https://img.shields.io/badge/C-A8B400?style=flat&logo=c&logoColor=ffffff)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=ffffff)

@@ -5,7 +5,7 @@
 ### 🏆 Certificaciones Oficiales
 
 <div align="left">
-  <a href="(https://www.credly.com/badges/f3fa9ac7-5d90-45aa-9e9c-c06140392903/public_url)" target="_blank">
+  <a href="https://www.credly.com/badges/f3fa9ac7-5d90-45aa-9e9c-c06140392903/public_url" target="_blank">
     <img src="https://images.credly.com/images/995079a4-130d-4581-b541-11d615951d2f/Google_Cybersecurity_Professional_Certificate.png" height="130" alt="Google Cybersecurity"/>
   </a>
 

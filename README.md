@@ -1,12 +1,15 @@
 # 💫 Hi, I’m currently learning:		
 [![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/J.avi.png)](https://tryhackme.com/p/J.avi)
 
-### Certificaciones
 ### 🏆 Certificaciones Oficiales
 
 <div align="left">
   <a href="https://www.credly.com/badges/f3fa9ac7-5d90-45aa-9e9c-c06140392903/public_url" target="_blank">
-    <img src="https://images.credly.com/images/995079a4-130d-4581-b541-11d615951d2f/Google_Cybersecurity_Professional_Certificate.png" height="130" alt="Google Cybersecurity"/>
+    <img src="./googlecertificate.png" height="130" alt="Google Cybersecurity"/>
+  </a>
+
+  <a href="https://certs.ine.com/b54bbe0e-3220-449e-85b7-098dfd82791b#acc.uyceS07t" target="_blank">
+    <img src="./ejpt.png" height="130" alt="eJPTv2"/>
   </a>
 
 

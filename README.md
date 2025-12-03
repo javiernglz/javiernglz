@@ -5,15 +5,17 @@
 
 <div align="left">
   <a href="https://www.credly.com/badges/f3fa9ac7-5d90-45aa-9e9c-c06140392903/public_url" target="_blank">
-    <img src="./googlecertificate.png" height="130" alt="Google Cybersecurity"/>
+    <img src="./googlecertificate.png" height="90" style="border-radius: 15px;" alt="Google Cybersecurity"/>
   </a>
+
 
   <a href="https://certs.ine.com/b54bbe0e-3220-449e-85b7-098dfd82791b#acc.uyceS07t" target="_blank">
-    <img src="./ejpt.png" height="130" alt="eJPTv2"/>
+    <img src="./ejpt.png" height="90" style="border-radius: 15px;" alt="eJPTv2"/>
   </a>
 
+
   <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-Y8IJUDTPYP.pdf" target="_blank">
-    <img src="./SOCL1.png" height="130" alt="SOCL1THM"/>
+    <img src="./SOCL1_THM.png" height="90" style="border-radius: 15px;" alt="SOCL1THM"/>
   </a>
 
 
